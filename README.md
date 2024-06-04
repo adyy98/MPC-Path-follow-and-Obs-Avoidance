@@ -4,7 +4,8 @@
 2. Also added path creation to JSON script, in the code there is an option to take it directly from global planner as well 
 3. Added an option to have obstacles from costmap itself if we want to pursue that 
 4. Also documented a lot of these paths which are in Data folder 
-5. Mainly you need to work with scripts/tracking_r.py and controllers/mpc2/controller_r.py (Has major code for visualising, adding obstacle, scipy.minimize() for optimization
+5. Mainly you need to work with scripts/tracking_r.py and controllers/mpc2/controller_r.py (Has major code for visualizing, adding obstacle, scipy.minimize() for optimization)
+6. I am adding Casadi code to the same repo for prototyping 
 
 To run:
 
